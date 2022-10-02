@@ -1,5 +1,5 @@
 # kamakaniokala
-NASA DSCVR mission Space Apps Challenge 2022 submission by team Hui o ka la
+NASA DSCVR mission Space Apps Challenge 2022 submission by team Kamakani o ka lā
 
 The challenge is to improve the quality of predictions for the DSCVR spacecraft's Faraday Cup (FC) instrument using
 FC data from the WIND spacecraft. Both DSCVR and WIND orbit the Earth Sun L1 Lagrange point in space so the data
