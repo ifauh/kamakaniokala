@@ -1,4 +1,4 @@
-# dscvr-fc
+# kamakaniokala
 NASA DSCVR mission Space Apps Challenge 2022 submission by team Hui o ka la
 
 The challenge is to improve the quality of predictions for the DSCVR spacecraft's Faraday Cup (FC) instrument using
