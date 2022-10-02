@@ -13,9 +13,9 @@ and combine these into a pipeline to make filter DSCVR magnetic field data and u
 
 Our stretch goal is to use transfer learning to adapt the WIND trained ion predictor to a carefully curated DSCVR data set that includes ion predictions for DSCVR.
 
-We include 8 Jupyter notebooks:
-1. explore NASA's WIND and DSCVR challenge data
-2. train an anomaly detector on WIND data
+We (will) include 8 Jupyter notebooks:
+1. explore NASA's WIND and DSCVR challenge data &#9989;
+2. train an anomaly detector on WIND data &#9989;
 3. train an ion predictor on WIND data
 4. make predictions on WIND held out test set data 
 5. make predictions using DSCVR data and compare with published DSCVR proton velocity vector estimates
